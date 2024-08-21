@@ -1,4 +1,8 @@
 # units-network
+go here 
+[unitnetwork](https://app.units.network/?referral=0x975B78F5d585df460161D27E0434F9aD92aC1932)
+get faucet 
+[faucet](https://faucet-testnet.unit0.dev/)
 #  Node.js
 ```sh
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
@@ -85,12 +89,13 @@ async function startTransactions() {
 
 startTransactions();
 ```
-##  paste your private_keys.txt
+##  paste your private in( private_keys.txt)
 ```sh
 nano private_keys.txt
 ```
 ```sh
 screen -S unit
 ```
+# run it 
 ```sh
 node unit.js
