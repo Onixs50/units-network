@@ -9,7 +9,8 @@ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 ```sh
-npm install web3 readline fs
+npm install -g npm@10.8.1
+npm install web3@1.5.3
 ```
 ```sh
 nano unit.js
